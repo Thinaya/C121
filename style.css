@@ -1,0 +1,15 @@
+body
+{
+	text-align: center;
+    background: linear-gradient(lightcoral 0%, magenta 50%, teal 100%);
+}
+span
+{
+	font-size: 18px;
+	color: lightseagreen;
+}
+canvas
+{
+	background: lightskyblue;
+	border-radius: 20px;
+}
